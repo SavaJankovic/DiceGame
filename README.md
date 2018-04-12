@@ -1,4 +1,4 @@
-# DiceGame
+# Dice-Game-JS
 
 This is a simple dice game. 
 
@@ -10,5 +10,5 @@ This is a simple dice game.
 
 # Stack
     -   Jquery
-    -   CSS 
+    -   responsive design css
     -   ES5
